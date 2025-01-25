@@ -1,0 +1,13 @@
+body {
+    padding: 30px 60px;
+    background-color: aliceblue;
+}
+header {
+    background-color: rgb(252, 248, 248);
+    color: #fff;
+    padding: 20px;
+    font-size: x-large;
+}
+#body {
+    background-color: aqua;
+}

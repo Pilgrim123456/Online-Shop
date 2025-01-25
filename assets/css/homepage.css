@@ -1,0 +1,21 @@
+#centre-image {
+    border-radius: 50%;
+}
+#header-logo {
+    border-radius: 45%;
+    margin-left: 20px;
+}
+#big-logo {
+    background-color: rgb(27, 128, 244);
+}
+#header {
+    background-color: gainsboro;
+    border-radius: 5%;
+    padding: 20px auto;
+}
+#intro {
+    font-style: oblique;
+}
+#buttons {
+    margin-right: 20px;
+}

@@ -1,0 +1,25 @@
+ body {
+    background-color: #fff;
+    
+}
+.form {
+    align-items: center;
+}
+.input{
+    padding: 10px;
+    width: 25%;
+    border-radius: 5px;
+    border: 1px solid;
+}
+#logo {
+    border-radius: 45%;
+}
+button {
+    border-radius: 5px;
+    border: none;
+}
+button:hover {
+    background-color: brown;
+    transition: 300ms;
+    transform: skew(2);
+}
